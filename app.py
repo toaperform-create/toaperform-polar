@@ -3,8 +3,8 @@ import requests
 
 app = Flask(__name__)
 
-CLIENT_ID = "a5d151bb-5a0a-4538-8d5b-23e35bd756e4"
-CLIENT_SECRET = "155b0449-fa85-49d9-835a-2d64fb8d2a77"
+CLIENT_ID = "aafde95f-0bee-45c7-86bc-44bad11e8df1"
+CLIENT_SECRET = "9879efbb-a5f0-42ce-88cd-c412ac56e8c2"
 REDIRECT_URI = "https://toaperform-polar.onrender.com/polar/callback"
 
 temp_tokens = {}

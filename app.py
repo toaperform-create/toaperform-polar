@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 CLIENT_ID = "a5d151bb-5a0a-4538-8d5b-23e35bd756e4"
 CLIENT_SECRET = "155b0449-fa85-49d9-835a-2d64fb8d2a77"
-REDIRECT_URI = "https://polar-api.onrender.com/polar/callback"
+REDIRECT_URI = "https://toaperform-polar.onrender.com/polar/callback"
 
 temp_tokens = {}
 
